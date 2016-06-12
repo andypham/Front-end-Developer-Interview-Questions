@@ -100,10 +100,10 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### JS Questions:
 
-* Explain event delegation
+* Explain event delegation [answer](https://davidwalsh.name/event-delegate)
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
-* What do you think of AMD vs CommonJS?
+* What do you think of AMD vs CommonJS? [answer](https://addyosmani.com/writing-modular-js/)
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
@@ -122,7 +122,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Explain how JSONP works (and how it's not really Ajax).
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used?
-* Explain "hoisting".
+* Explain "hoisting". [answer](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
 * Describe event bubbling.
 * What's the difference between an "attribute" and a "property"?
 * Why is extending built-in JavaScript objects not a good idea?
