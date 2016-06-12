@@ -114,8 +114,8 @@ This file contains a number of front-end interview questions that can be used wh
 * What's the difference between host objects and native objects?
 * Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * What's the difference between `.call` and `.apply`?
-* Explain `Function.prototype.bind`.
-* When would you use `document.write()`?
+* Explain `Function.prototype.bind`. [answer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+* When would you use `document.write()`? [answer](http://lucybain.com/blog/2015/js-document-write/)
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain Ajax in as much detail as possible.
 * What are the advantages and disadvantages of using Ajax?
@@ -123,7 +123,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Have you ever used JavaScript templating?
   * If so, what libraries have you used?
 * Explain "hoisting". [answer](http://code.tutsplus.com/tutorials/javascript-hoisting-explained--net-15092)
-* Describe event bubbling.
+* Describe event bubbling.[answer](http://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing)
 * What's the difference between an "attribute" and a "property"?
 * Why is extending built-in JavaScript objects not a good idea?
 * Difference between document load event and document DOMContentLoaded event?
